@@ -458,4 +458,4 @@ contact.html
 ![alt text](<Screenshot (71).png>)
 ![alt text](<Screenshot (72).png>)
 ## RESULT:
-The program for designing software company website using HTML and CSS is completed successfully.
+The Project for responsive web design using Bootstrap is completed successfully.
